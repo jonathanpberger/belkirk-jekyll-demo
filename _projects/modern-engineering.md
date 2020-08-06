@@ -4,7 +4,7 @@ date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
+banner_image: "/uploads/2020/08/06/surround-screen-shot-2020-08-06-at-3-51-57-pm.png"
 sub_heading: DEVOTE. ENVISION. SURROUND. You like to surround. Surround does too.
 tags:
 - engineering
