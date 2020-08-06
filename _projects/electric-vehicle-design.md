@@ -3,7 +3,7 @@ title: Committeer
 tags:
 - research
 date: '2018-02-25T19:07:50.000+00:00'
-banner_image: ''
+banner_image: "/uploads/2020/08/06/committeer-screen-shot-2020-08-06-at-3-54-05-pm.png"
 sub_heading: LIKE NO OTHER COMMITTEE. Committeer is a different kind of committee
   app.
 slug: ''
