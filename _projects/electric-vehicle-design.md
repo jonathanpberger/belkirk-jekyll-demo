@@ -1,14 +1,73 @@
 ---
-title: 'Electric Vehicle '
+title: Committeer
 tags:
 - research
-date: 2018-02-25 19:07:50 +0000
-banner_image: "/uploads/2018/02/25/car.jpg"
-sub_heading: 'Human centered design in the electric vehicle era '
+date: '2018-02-25T19:07:50.000+00:00'
+banner_image: ''
+sub_heading: LIKE NO OTHER COMMITTEE. Committeer is a different kind of committee
+  app.
 slug: ''
+
 ---
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+# LIKE NO OTHER COMMITTEE.
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+[Committeer](http://tiffzhang.com/startup/?s=600998677383) is a different kind of committee app.
 
-Dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+[Get started](http://tiffzhang.com/startup/index.html)
+
+> Once again, Committeer came through. And even before estimated delivery date! Just impressive! Thank you! You’re awesome!
+>
+> ## Ester Baker  
+> Autaugaville, Alabama
+
+## Why Committeer?
+
+## Prompt
+
+Our state-of-the-art technology keeps things prompt.
+
+## Fearless
+
+Committeer is a simple and powerful tool that automatically organizes for fearless results.
+
+## Fast
+
+Fits you and your fast lifestyle.
+
+> Committeer is the Facebook of committees.
+>
+> ## Morgan Perez  
+> Miami, Arizona
+
+## Meet the Committeer team
+
+![Juan Pablo Montoya](http://tiffzhang.com/startup/img/team/m/9.jpg)
+
+## Matthew Baker
+
+Operations
+
+![Kyle Zimmerman](http://tiffzhang.com/startup/img/team/m/13.jpg)
+
+## James Arnold
+
+Customer Experience
+
+![Cheryl Collins](http://tiffzhang.com/startup/img/team/m/7.jpg)
+
+## Jesus Salazar
+
+Customer Success Director
+
+> Thanks to Committeer we now have beautiful, devious committees every day. Our customers are happy and engagement has drastically increased. Highly recommend!
+>
+> ## Julia Scanlan  
+> Fairbanks, Alaska
+
+## Our Sponsors
+
+### ReadingNow
+
+### Addressit
+
+### E
